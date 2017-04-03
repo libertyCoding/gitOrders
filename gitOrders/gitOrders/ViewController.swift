@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         
         print("Push to develop branch!")
         print("Test merge ！")
+        print("=====")
     }
 
     override func didReceiveMemoryWarning() {
